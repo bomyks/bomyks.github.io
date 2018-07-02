@@ -2,7 +2,7 @@
   "name": "space-trip",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://bomyks.github.io/react/space-trip/public/index.html",
+  "homepage": "http://bomyks.github.io/react/space-trip/build/index.html",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
